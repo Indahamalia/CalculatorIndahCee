@@ -1,0 +1,4 @@
+#Fri Mar 29 11:17:27 ICT 2019
+base.0=C\:\\Users\\Garin\\AndroidStudioProjects\\IndahCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
